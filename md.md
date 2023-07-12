@@ -17,7 +17,7 @@ Sub
 ```
 [source](https://www.markdownguide.org/cheat-sheet/)
 
-## Heading and Sub-heading<a name="entry2"></a>
+## Index of Contents<a name="entry2"></a>
 ```
 # Table of contents
 1. [Introduction](#introduction)
