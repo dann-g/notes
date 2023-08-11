@@ -7,11 +7,11 @@ ________________________________________________________
 [Pythoncheatsheet](https://www.pythoncheatsheet.org/)
 
 ## Index of Contents
-	1. [Variables](#1)
-	2. [Functions](#2)
-	3. [Built-in Functions Table](#3)
+1. [Variables](#1)
+2. [Functions](#2)
+3. [Built-in Functions Table](#3)
 	
-
+		
 ### Variables {#1}
 
 ```
