@@ -39,8 +39,8 @@ add(50,50)
 ```
 
 ### Built-in Functions {#3}
-
-| :-----: |	:----------			 |
+| term    | definition                                                                   |
+|:-----:  |	:---------------------------------------------------------------------			 |
 |         |                                                                              |
 | print() | printe objects to the text stream file                                       |
 | len()   | returns length of an iterable                                                |
