@@ -6,7 +6,9 @@ This is by design as the vast majority of the learning you will need to do is se
 
 Additionally, this guide is much more focused on backend development, though you will be exposed to both backend and frontend work if you follow along.
 
-## 1. Install [Arch Linux](https://archlinux.org) on your main computer and use it for ALL computer tasks.
+## ~~1. Install [Arch Linux](https://archlinux.org) on your main computer and use it for ALL computer tasks.~~
+  _I started using Arch after leaving  university because I craved doing more hands-on learning_
+ 
 I picked Arch not because it is the most perfect or the best, but because it requires you to see what's going into your computing environment.
 This is to see what a computer does at a little lower level, and see how a more modular computing environment works.
 You will learn how to use the command line, and likely get some experience writing shell scripts to tailor your personal computing to your own preferences
