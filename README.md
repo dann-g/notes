@@ -4,7 +4,8 @@
 
 1. [md.md](https://github.com/dann-g/notes/blob/main/md.md)
 2. [python.md](https://github.com/dann-g/notes/blob/main/python.md)
-3. 
+3. [javascript.md](https://github.com/dann-g/notes/blob/main/javascript.md) 
+:
 notes inspired by the TIL style developed by [Josh Branchaud](https://github.com/jbranchaud/til). What I don't like about Branchaud's style is that it atomizies information 
 away from its greater context which can limit the understanding for future learning. 
 
