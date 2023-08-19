@@ -1,13 +1,14 @@
 # README.MD
 
+notes inspired by the TIL style developed by [Josh Branchaud](https://github.com/jbranchaud/til). What I don't like about Branchaud's style is that it atomizies information 
+away from its greater context which can limit the understanding for future learning. 
+
 [Quick Start Template for New Subjects](https://github.com/dann-g/notes/blob/main/template.md)
 
 1. [md.md](https://github.com/dann-g/notes/blob/main/md.md)
 2. [python.md](https://github.com/dann-g/notes/blob/main/python.md)
 3. [javascript.md](https://github.com/dann-g/notes/blob/main/javascript.md) 
-:
-notes inspired by the TIL style developed by [Josh Branchaud](https://github.com/jbranchaud/til). What I don't like about Branchaud's style is that it atomizies information 
-away from its greater context which can limit the understanding for future learning. 
+
 
 [Jul-11-2023](#2023-07-01)
 Beyond that I realize I need a way to centralize my notes to use for future teams or
