@@ -1,4 +1,5 @@
 # How to get into software
+[taken from npalm/github](https://github.com/npmaile/blog/blob/main/posts/2.%20How%20to%20get%20into%20software.md)
 I end up talking to a lot of people about how to get into software development, so I am creating this guide.
 
 This guide is by no means comprehensive, and is light on specifics.
