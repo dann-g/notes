@@ -1,6 +1,8 @@
 # How to get into software
-[taken from npalm/github](https://github.com/npmaile/blog/blob/main/posts/2.%20How%20to%20get%20into%20software.md)
-I end up talking to a lot of people about how to get into software development, so I am creating this guide.
+[huge credit to and taken from npalm/github](https://github.com/npmaile/blog/blob/main/posts/2.%20How%20to%20get%20into%20software.md)
+	
+_I found this guide through a Primagean video around 6 months of writing  this that he 
+broke down and also sent the creators email on_
 
 This guide is by no means comprehensive, and is light on specifics.
 This is by design as the vast majority of the learning you will need to do is self directed in your career.
@@ -8,8 +10,9 @@ This is by design as the vast majority of the learning you will need to do is se
 Additionally, this guide is much more focused on backend development, though you will be exposed to both backend and frontend work if you follow along.
 
 ## ~~1. Install [Arch Linux](https://archlinux.org) on your main computer and use it for ALL computer tasks.~~
-  _I started using Arch after leaving  university because I craved doing more hands-on learning_
- 
+  __I started using Arch after university because I craved doing more hands-on learning.
+Honestly, my dad started out as a low level transimission engineer for island's monopoly telecoms company Cable and Wireless. I used to be excited (but grew quite annoyed with)  the stories he told about the night shifts staying up late to monitor the country's only system and spending time on a CLI. Thinking about it now it's honestly inspirational, and 
+slightly perplexing because he was my age at the time. AS i type this on my own rice i feel a sense of pride and profound understanding for what he was going through. He also used to tell me that Engineers don't run companies :)._ 
 I picked Arch not because it is the most perfect or the best, but because it requires you to see what's going into your computing environment.
 This is to see what a computer does at a little lower level, and see how a more modular computing environment works.
 You will learn how to use the command line, and likely get some experience writing shell scripts to tailor your personal computing to your own preferences
