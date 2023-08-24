@@ -28,14 +28,14 @@ Your three choices are [Neovim](https://neovim.org)(my choice), [Emacs](https://
 At the end of the day, your work (and play) as a software developer is 90% editing text files, so you should be extremely effective at editing text files.
 This should be more personal to you than your computer is as you will find your productivity is directly tied to your abilities in the editor.
 
-## ~~4. Create a profile on [Github](https://github.com/) and learn the basics of version control with git. ~~
+## ~~4. Create a profile on [Github](https://github.com/) and learn the basics of version control with git.~~
 
 From here out, you will put all of your code and things in your github so that potential employers will see that you are productive.
 Git is a difficult program to understand and work with, and much of it will not make sense.
 Use it regularly and, with practice and reading, you will eventually grow to understand enough to use it in a collaborative environment.
 A good resource for this is the first few chapters of [this book](https://git-scm.com/book/en/v2)
 __ Hence
-## ~~ 5. Learn [Markdown](https://www.markdownguide.org/)~~
+## ~~5. Learn [Markdown](https://www.markdownguide.org/)~~
 Use it to write documentation, notes, and pretty much anything that you have been writing in word or on paper.
 This is useful because it's a common format in software circles that can be rendered with another program to more or less any format using tools like [pandoc](https://pandoc.org).
 This will be your main way to write documentation about your programs.
