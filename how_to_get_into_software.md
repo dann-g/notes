@@ -19,8 +19,8 @@ This is to see what a computer does at a little lower level, and see how a more 
 You will learn how to use the command line, and likely get some experience writing shell scripts to tailor your personal computing to your own preferences
 Additionally, whether or not you end up sticking with Arch (or linux at all), you will find the [Arch wiki](https://wiki.archlinux.org) to be a useful reference for debugging software products.
 
-## __ 2. Read [Learn C++](https://www.learncpp.com/
-
+##  2. Read [Learn C++](https://www.learncpp.com/
+__
 I personally have always wanted to know C++ because the core understanding of memormy management will be the next big area of business as AI and more performant architecture's are needed
 Maybe the language itself won't be progessivley utilized but there will still remain problems that require the applied knowledge of a language with flexibility of solving issues.
 __
