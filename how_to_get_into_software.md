@@ -13,33 +13,33 @@ Additionally, this guide is much more focused on backend development, though you
   __I started using Arch after university because I craved doing more hands-on learning.
 Honestly, my dad started out as a low level transimission engineer for island's monopoly telecoms company Cable and Wireless. I used to be excited (but grew quite annoyed with)  the stories he told about the night shifts staying up late to monitor the country's only system and spending time on a CLI. Thinking about it now it's honestly inspirational, and 
 slightly perplexing because he was my age at the time. AS i type this on my own rice i feel a sense of pride and profound understanding for what he was going through. He also used to tell me that Engineers don't run companies :)._ 
+
 I picked Arch not because it is the most perfect or the best, but because it requires you to see what's going into your computing environment.
 This is to see what a computer does at a little lower level, and see how a more modular computing environment works.
 You will learn how to use the command line, and likely get some experience writing shell scripts to tailor your personal computing to your own preferences
 Additionally, whether or not you end up sticking with Arch (or linux at all), you will find the [Arch wiki](https://wiki.archlinux.org) to be a useful reference for debugging software products.
 
-## 2. Read [Automate the Boring Stuff](https://automatetheboringstuff.com/)
-This is a free Python book that includes instructions and explanations on how to automate some general tasks using the python programming language.
-These programs are simple, but powerful and will be a good starting point to program away some repetitive tasks in your own life.
-You will learn the basics of programming and see some of the power of writing your own programs to solve problems.
+## __ 2. Read [Learn C++](https://www.learncpp.com/
 
+I personally have always wanted to know C++ because the core understanding of memormy management will be the next big area of business as AI and more performant architecture's are needed
+Maybe the language itself won't be progessivley utilized but there will still remain problems that require the applied knowledge of a language with flexibility of solving issues.
+__
 ## 3. Master a text editor.
 Your three choices are [Neovim](https://neovim.org)(my choice), [Emacs](https://emacs.org) (if you want to learn another programming language), and [VS Code](https://code.visualstudio.com/) (this is the one that is most used in professional circles).
 At the end of the day, your work (and play) as a software developer is 90% editing text files, so you should be extremely effective at editing text files.
 This should be more personal to you than your computer is as you will find your productivity is directly tied to your abilities in the editor.
 
-## 4. Create a profile on [Github](https://github.com/) and learn the basics of version control with git.
+## ~~4. Create a profile on [Github](https://github.com/) and learn the basics of version control with git. ~~
 From here out, you will put all of your code and things in your github so that potential employers will see that you are productive.
 Git is a difficult program to understand and work with, and much of it will not make sense.
 Use it regularly and, with practice and reading, you will eventually grow to understand enough to use it in a collaborative environment.
 A good resource for this is the first few chapters of [this book](https://git-scm.com/book/en/v2)
-
-## 5. Learn [Markdown](https://www.markdownguide.org/)
+__ Hence
+## ~~ 5. Learn [Markdown](https://www.markdownguide.org/)~~
 Use it to write documentation, notes, and pretty much anything that you have been writing in word or on paper.
 This is useful because it's a common format in software circles that can be rendered with another program to more or less any format using tools like [pandoc](https://pandoc.org).
 This will be your main way to write documentation about your programs.
 This blog, and most of the written prose I put out are all written in markdown.
-
 ## 6. Start lurking on [Hacker News](https://news.ycombinator.com) and [Lobsters](https://lobste.rs). 
 These are places where anyone from college students to CEOs hang out and discuss tech topics.
 You will see technologies come and go, people complain about things that are objectively good, and defend things that are objectively bad.
