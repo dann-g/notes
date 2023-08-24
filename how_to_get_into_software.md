@@ -20,16 +20,15 @@ You will learn how to use the command line, and likely get some experience writi
 Additionally, whether or not you end up sticking with Arch (or linux at all), you will find the [Arch wiki](https://wiki.archlinux.org) to be a useful reference for debugging software products.
 
 ##  2. Read [Learn C++](https://www.learncpp.com/
-__
-I personally have always wanted to know C++ because the core understanding of memormy management will be the next big area of business as AI and more performant architecture's are needed
-Maybe the language itself won't be progessivley utilized but there will still remain problems that require the applied knowledge of a language with flexibility of solving issues.
-__
+
+__I personally have always wanted to know C++ because the core understanding of memormy management will be the next big area of business as AI and more performant architecture's are needed
+Maybe the language itself won't be progessivley utilized but there will still remain problems that require the applied knowledge of a language with flexibility of solving issues.__
 ## 3. Master a text editor.
 Your three choices are [Neovim](https://neovim.org)(my choice), [Emacs](https://emacs.org) (if you want to learn another programming language), and [VS Code](https://code.visualstudio.com/) (this is the one that is most used in professional circles).
 At the end of the day, your work (and play) as a software developer is 90% editing text files, so you should be extremely effective at editing text files.
 This should be more personal to you than your computer is as you will find your productivity is directly tied to your abilities in the editor.
 
-## ~~4. Create a profile on [Github](https://github.com/) and learn the basics of version control with git. ~~
+## ~~ 4. Create a profile on [Github](https://github.com/) and learn the basics of version control with git. ~~
 From here out, you will put all of your code and things in your github so that potential employers will see that you are productive.
 Git is a difficult program to understand and work with, and much of it will not make sense.
 Use it regularly and, with practice and reading, you will eventually grow to understand enough to use it in a collaborative environment.
