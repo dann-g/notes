@@ -10,6 +10,7 @@ away from its greater context which can limit the understanding for future learn
 3. [javascript.md](https://github.com/dann-g/notes/blob/main/javascript.md) 
 4. [cpp.md](https://github.com/dann-g/notes/blob/main/cpp.md) 
 5. [typscript](https://github.com/dann-g/notes/blob/main/typscript.md)
+6. [zsh](https://github.com/dann-g/notes/blob/main/zsh.md)
 
 ## ChangeLog:
 
