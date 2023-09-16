@@ -7,6 +7,7 @@
 
 1. [Strings](#1)	
 2. [Arrays](#2)
+3. [Associative Arrays](#3)
 
 ## Strings{#1}
 
@@ -43,4 +44,19 @@
 | Check if an array is empty                          | `if [[ -z $VARNAME ]]`           |
 | Check if an array is not empty                      | `if [[ ! -z $VARNAME ]]`         |
 | Remove an element from an array                     | `VARNAME[index]=()`              |
+
+## Associative arrays (= maps / dictionaries)## Strings{#3}
+
+| Description                                      | Syntax                              |
+| ------------------------------------------------ | ----------------------------------- |
+| Get the length of a string                       | `${#VARNAME}`                       |
+| Get a single character                           | `${VARNAME[index]}`                 |
+| Get the string from a specific index             | `${VARNAME[index,-1]}`              |
+| Get a substring                                  | `${VARNAME[from,to]}`               |
+| Replace the first occurrence in a string         | `${VARNAME/toreplace/replacement}`  |
+| Replace all occurrences in a string              | `${VARNAME//toreplace/replacement}` |
+| Cut a string after a model                       | `${VARNAME%%model*}`                |
+| Check if a string starts by a specific substring | `if [[ $VARNAME = "startstr"* ]]`   |
+| Check if a string contains a substring           | `if [[ $VARNAME = *"substring"* ]]` |
+| Check if a string ends by a specific substring   | `if [[ $VARNAME = *"substring" ]]`  |
 
